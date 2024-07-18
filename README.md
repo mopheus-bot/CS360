@@ -1,5 +1,4 @@
-# CS360
-Mobile Architect and Programming
+# Mobile Architect and Programming
 
 ### 1) Requirements and Goals
 
