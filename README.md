@@ -1,6 +1,7 @@
 # CS360
+Mobile Architect and Programming
 
-1) Requirements and Goals
+### 1) Requirements and Goals
 
 Summary:
 
@@ -13,7 +14,7 @@ User Needs Addressed:
     Real-time Updates: Immediate updates to inventory quantities to maintain accurate records.
     Low Stock Alerts: Notifications when inventory levels drop to zero, preventing stockouts.
 
-2) Screens and Features
+### 2) Screens and Features
 
 Necessary Screens and Features:
 
@@ -34,7 +35,7 @@ Successful Design Elements:
     Clear Visual Hierarchy: Important information is easily visible and accessible.
     Feedback Mechanisms: Users receive immediate feedback on their actions (e.g., successful item addition, low stock alerts).
 
-3) Coding Approach
+### 3) Coding Approach
 
 Techniques and Strategies:
 
@@ -47,7 +48,7 @@ Future Application:
     Modular and Iterative Approach: Continue to use these methods for future projects to ensure manageable development and continuous improvement.
     Comprehensive Documentation: Enhance in-line comments and external documentation for better code maintenance.
 
-4) Testing Process
+### 4) Testing Process
 
 Testing Techniques:
 
@@ -61,7 +62,7 @@ Importance and Revelations:
     User Experience: Revealed areas for improvement in UI design and functionality.
     Reliability: Ensured that the app performs reliably under various conditions.
 
-5) Overcoming Challenges
+### 5) Overcoming Challenges
 
 Innovation and Problem Solving:
 
@@ -69,7 +70,7 @@ Innovation and Problem Solving:
     User Authentication: Ensuring secure and smooth login and registration processes.
     SMS Permissions: Handling user permissions for SMS notifications gracefully, ensuring the app continues to function even if permissions are denied.
 
-6) Demonstration of Knowledge, Skills, and Experience
+### 6) Demonstration of Knowledge, Skills, and Experience
 
 Successful Component:
 
